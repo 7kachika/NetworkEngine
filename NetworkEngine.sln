@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lidgren.Network", "Lidgren.Network\Lidgren.Network.csproj", "{49BA1C69-6104-41AC-A5D8-B54FA9F696E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameServerLibrary", "GameServerLibrary\GameServerLibrary.csproj", "{B961B708-6293-4D8D-96A2-883C25F23827}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameServer", "GameServer\GameServer.csproj", "{BDEDCABC-AB37-44F9-B472-C84A0385572F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameClientDemo", "GameClientDemo\GameClientDemo.csproj", "{766F8A5A-F69F-4EFB-B123-A7C35C206086}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49BA1C69-6104-41AC-A5D8-B54FA9F696E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49BA1C69-6104-41AC-A5D8-B54FA9F696E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49BA1C69-6104-41AC-A5D8-B54FA9F696E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49BA1C69-6104-41AC-A5D8-B54FA9F696E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B961B708-6293-4D8D-96A2-883C25F23827}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B961B708-6293-4D8D-96A2-883C25F23827}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B961B708-6293-4D8D-96A2-883C25F23827}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B961B708-6293-4D8D-96A2-883C25F23827}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDEDCABC-AB37-44F9-B472-C84A0385572F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDEDCABC-AB37-44F9-B472-C84A0385572F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDEDCABC-AB37-44F9-B472-C84A0385572F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDEDCABC-AB37-44F9-B472-C84A0385572F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{766F8A5A-F69F-4EFB-B123-A7C35C206086}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{766F8A5A-F69F-4EFB-B123-A7C35C206086}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{766F8A5A-F69F-4EFB-B123-A7C35C206086}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{766F8A5A-F69F-4EFB-B123-A7C35C206086}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
